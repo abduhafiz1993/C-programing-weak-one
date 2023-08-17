@@ -1,0 +1,1 @@
+#Exercises on C-programming \n ## Question \n ###we have a population of n llames each year N/3 new llames are born and n/4 llamas pass away \n ### How many years will it takes to have certain population of llamas 
